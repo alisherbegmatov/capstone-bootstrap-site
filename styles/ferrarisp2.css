@@ -9,32 +9,32 @@ body {
   background-color: black;
   color: white;
 }
-.ferrari-roma-1 {
-  background-image: url("FerrariRoma1.jpg");
+.ferrari-monza-1 {
+  background-image: url("../images/FerrariSP1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   padding-top:400px;
   padding-bottom:400px;
 }
-.ferrari-roma-2 {
-  background-image: url("FerrariRoma2.jpg");
+.ferrari-monza-2 {
+  background-image: url("../images/FerrariSP2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   padding-top:400px;
   padding-bottom:400px;
 }
-.ferrari-roma-3 {
-  background-image: url("FerrariRoma3.jpg");
+.ferrari-monza-3 {
+  background-image: url("../images/FerrariSP3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   padding-top:400px;
   padding-bottom:400px;
 }
-.ferrari-roma-4 {
-  background-image: url("FerrariRoma4.jpg");
+.ferrari-monza-4 {
+  background-image: url("../images/FerrariSP4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

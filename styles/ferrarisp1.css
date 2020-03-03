@@ -10,7 +10,7 @@ body {
   color: white;
 }
 .ferrari-monza-1 {
-  background-image: url("FerrariSP1.jpg");
+  background-image: url("../images/FerrariMonzaSP1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -18,7 +18,7 @@ body {
   padding-bottom:400px;
 }
 .ferrari-monza-2 {
-  background-image: url("FerrariSP2.jpg");
+  background-image: url("../images/FerrariMonzaSP2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -26,7 +26,7 @@ body {
   padding-bottom:400px;
 }
 .ferrari-monza-3 {
-  background-image: url("FerrariSP3.jpg");
+  background-image: url("../images/FerrariMonzaSP3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -34,7 +34,7 @@ body {
   padding-bottom:400px;
 }
 .ferrari-monza-4 {
-  background-image: url("FerrariSP4.jpg");
+  background-image: url("../images/FerrariMonzaSP4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
