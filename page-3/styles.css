@@ -1,0 +1,43 @@
+body {
+  color:White;
+}
+.navbar {
+  padding 1rem;
+  background-color: black;
+}
+.btn-primary:hover {
+  background-color: black;
+  color: white;
+}
+.ferrari-monza-1 {
+  background-image: url("FerrariSP1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+.ferrari-monza-2 {
+  background-image: url("FerrariSP2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+.ferrari-monza-3 {
+  background-image: url("FerrariSP3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+.ferrari-monza-4 {
+  background-image: url("FerrariSP4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
